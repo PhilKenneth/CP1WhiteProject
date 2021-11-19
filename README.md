@@ -45,7 +45,6 @@ exit(1);
     {
      system("cls");
 
-Record Window
 
 void show_record()
     {system("cls");
@@ -60,7 +59,7 @@ printf("\n\n\t\t*************************************************************");
 fclose(f);
 getch();}
 
-Reset score window
+
 
 void reset_score()
     {system("cls");
